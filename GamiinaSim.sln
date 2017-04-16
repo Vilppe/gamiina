@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamiinaSim.CSharp.Plugins", "GamiinaSim.CSharp.Plugins.csproj", "{2D979B10-98FE-82D5-02F1-4E86886DE8FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamiinaSim.CSharp", "GamiinaSim.CSharp.csproj", "{BE9048D0-8CF1-98AB-FF86-1D680F6573F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamiinaSim.CSharp.Editor", "GamiinaSim.CSharp.Editor.csproj", "{F800A5B1-5C5E-1A2F-E69C-AE210E6625D3}"
 EndProject
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D979B10-98FE-82D5-02F1-4E86886DE8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D979B10-98FE-82D5-02F1-4E86886DE8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D979B10-98FE-82D5-02F1-4E86886DE8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D979B10-98FE-82D5-02F1-4E86886DE8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9048D0-8CF1-98AB-FF86-1D680F6573F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9048D0-8CF1-98AB-FF86-1D680F6573F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9048D0-8CF1-98AB-FF86-1D680F6573F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9048D0-8CF1-98AB-FF86-1D680F6573F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F800A5B1-5C5E-1A2F-E69C-AE210E6625D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F800A5B1-5C5E-1A2F-E69C-AE210E6625D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F800A5B1-5C5E-1A2F-E69C-AE210E6625D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
